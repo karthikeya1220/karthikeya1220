@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Karthikeya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=karthikeya1220&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
