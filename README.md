@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Building modern web applications with MERN, Next.js and AI Agents**
 - 👯 I’m looking to collaborate on **Contributing to open-source projects**
-- 🌱 I’m currently learning **Currently learning cloud-native architecture and scalable deployments using AWS services such as Lambda, ECS, API Gateway, RDS and Exploring AI-driven development with Retrieval-Augmented Generation (RAG), agent-based workflows, and vector databases like Pinecone / FAISS.**
+- 🌱 I’m currently learning **cloud-native architecture and scalable deployments using AWS services such as Lambda, ECS, API Gateway, RDS and Exploring AI-driven development with Retrieval-Augmented Generation (RAG), agent-based workflows, and vector databases like Pinecone / FAISS.**
 - 📫 How to reach me **darshankarthik05@gmail.com**
 
 ---
