@@ -27,15 +27,17 @@
 
 **💻 Software Engineer Intern** | *QuantaGlobal* | *Jan 2025 - Sep 2025*
 
-- Shipped production backend services and REST APIs using **Node.js** with 85%+ Jest code coverage.
-- Optimized database schemas reducing API latency by **25%**.
-- Collaborated in system design discussions, optimized algorithms, and investigated production issues.
+- Architected a full-stack SAP Monitoring Platform (React, TypeScript, Node.js, MongoDB) with microservices-oriented backend, delivering real-time tracking across 300+ KPIs via RESTful API design.
+- Engineered HireNexa, an AI-powered recruitment platform (LLM APIs, Google Generative AI) with RBAC multi-tenant access control, cutting manual screening effort by 65%.
+- Built a reusable React component library (15+ components) across 3 enterprise products; applied memoization, lazy loading, and optimized data-fetching — reducing average API latency by ~35% across 500+ daily production requests.
+- Developed HealYou (React Native, iOS/Android) — component architecture, navigation, REST API integration, and JWT authentication workflows.
 
 <br/>
 
-**🤖 AI Research Contributor** | *Viswam.ai* | *Jun 2025 - Jul 2025*
+**🤖 AI Research Contributor** | *Viswam.ai (Summer of AI)* | *Jun 2025 - Jul 2025* | *Remote*
 
-- Designed data pipeline architecture for **NLP model serving** and optimized data structures for embeddings storage and retrieval.
+- Selected for a nationally competitive program; built NLP preprocessing pipelines (deduplication, normalization, quality validation) for India’s first Telugu LLM at large corpus scale.
+- Applied Python-based data engineering workflows including tokenization, text classification, and dataset versioning to prepare structured training corpora for transformer-based language model fine-tuning.
 
 </td>
 <td width="30%" align="center">
@@ -47,21 +49,46 @@
 </table>
 </div>
 
-## 🚀 Key Projects
+## ⚡ Featured Engineering & Innovations
 
-<div align="center">
-
-[![MarketGlimpse](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=MarketGlimpse&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/MarketGlimpse)
-[![UI-Flow](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=UI-Flow&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/UI-Flow)
-
-[![HireNexa](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HireNexa&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HireNexa)
-[![Get-It](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Get-It&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Get-It)
-
-[![Developers-Club-IIITDM](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Developers-Club-IIITDM&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Developers-Club-IIITDM)
-
-[![HealYou](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HealYou&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HealYou)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📈 <a href="https://github.com/karthikeya1220/MarketGlimpse">MarketGlimpse</a></h3>
+      <p>Engineered a comprehensive financial dashboard combining real-time data streaming with generative AI to provide instant, actionable insights on market trends.</p>
+      <sub><b>Stack:</b> Next.js • MongoDB • Gemini API</sub>
+    </td>
+    <td width="50%">
+      <h3>🎨 <a href="https://github.com/karthikeya1220/UI-Flow">UI-Flow</a></h3>
+      <p>Built an AI-driven development tool that instantly converts raw wireframes and designs into production-ready React/Next.js code components.</p>
+      <sub><b>Stack:</b> Next.js • Supabase • OpenRouter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤝 <a href="https://github.com/karthikeya1220/HireNexa">HireNexa</a></h3>
+      <p>Architected an intelligent Applicant Tracking System (ATS) that automates resume parsing and semantic candidate matching using Large Language Models.</p>
+      <sub><b>Stack:</b> MERN • Next.js • Gemini API</sub>
+    </td>
+    <td width="50%">
+      <h3>💼 <a href="https://github.com/karthikeya1220/Get-It">Get-It</a></h3>
+      <p>Developed a campus-centric freelance marketplace equipped with integrated secure payments and smart matching algorithms for college students.</p>
+      <sub><b>Stack:</b> Next.js • Firebase • Razorpay</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/karthikeya1220/Developers-Club-IIITDM">Developers Club IIITDM</a></h3>
+      <p>Led the development of the official institutional platform for the Developers Club, featuring interactive 3D elements and optimized student engagement flows.</p>
+      <sub><b>Stack:</b> Next.js • Three.js • Tailwind CSS</sub>
+    </td>
+    <td width="50%">
+      <h3>🏥 <a href="https://github.com/karthikeya1220/HealYou">HealYou</a></h3>
+      <p>Created a cross-platform mobile application combining social networking with fitness tracking to encourage community-driven wellness and accountability.</p>
+      <sub><b>Stack:</b> React Native • Expo • Node.js</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack & Capabilities
 
