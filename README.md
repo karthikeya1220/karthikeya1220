@@ -57,19 +57,51 @@
 [![HireNexa](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HireNexa&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HireNexa)
 [![Get-It](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Get-It&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Get-It)
 
-[![NeuroSlice-EIL](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=NeuroSlice-EIL&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/NeuroSlice-EIL)
 [![Developers-Club-IIITDM](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Developers-Club-IIITDM&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Developers-Club-IIITDM)
 
 [![HealYou](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HealYou&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HealYou)
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nextjs,tailwind,redux,nodejs,express,mongodb,postgres,mysql,firebase,supabase,aws,docker,git,github,vercel,figma&perline=12&theme=dark" alt="Skill Icons" />
-  </a>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp&theme=dark" />
+<br/>
+<sub>Python • TypeScript • JavaScript • C • C++</sub>
+<br/><br/>
+
+### 🧠 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<br/>
+<sub>Generative AI • RAG • LangChain • HuggingFace • MLOps • LLMs</sub>
+<br/><br/>
+
+### ⚙️ Backend Architecture
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
+<br/>
+<sub>Microservices • REST APIs • WebSockets • JWT • OAuth 2.0</sub>
+<br/><br/>
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" />
+<br/>
+<sub>Schema Design • Query Optimization • Vector Search</sub>
+<br/><br/>
+
+### 🌐 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
+<br/>
+<sub>Responsive Design • UI/UX • State Management</sub>
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vercel&theme=dark" />
+<br/>
+<sub>CI/CD Pipelines • Agile/Scrum • TDD (Jest)</sub>
+
 </div>
 
 ## 🏆 Achievements
