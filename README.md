@@ -57,6 +57,11 @@
 [![HireNexa](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HireNexa&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HireNexa)
 [![Get-It](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Get-It&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Get-It)
 
+[![NeuroSlice-EIL](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=NeuroSlice-EIL&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/NeuroSlice-EIL)
+[![Developers-Club-IIITDM](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=Developers-Club-IIITDM&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/Developers-Club-IIITDM)
+
+[![HealYou](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=karthikeya1220&repo=HealYou&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/karthikeya1220/HealYou)
+
 </div>
 
 ## 🛠️ Tech Stack
@@ -71,6 +76,7 @@
 
 | Achievement | Details |
 | :--- | :--- |
+| 📝 **IEEE Publication** | Research paper accepted at **TENCON 2026** (Bali): *"Impact-Guided Slice Selection for Efficient Human-in-the-Loop Brain Tumor Segmentation"* (NeuroSlice). |
 | 🥇 **Hackathon Champion** | **1st place** at BugByte '25 & RetroRevamp '25; **Top 5** out of 106 teams at VIT Hackathon. |
 | 👨‍💻 **Lead Software Developer** | Built the official IIITDM Placement Portal serving **500+ students** and **30+ recruiters**. |
 | 🚀 **Technical Lead** | Led development of the official IIITDM CSE Department website and Developers Club platform. |
