@@ -42,7 +42,7 @@
 </td>
 <td width="30%" align="center">
 
-<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gif-A0U6zGbN0OaRpz3H1xK4VlpMS8Ibdn.gif" width="200" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" alt="Coding Animation"/>
 
 </td>
 </tr>
