@@ -151,7 +151,7 @@
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=karthikeya1220&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=karthikeya1220&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20261004)
 
 ### 📈 Contribution Graph
 
