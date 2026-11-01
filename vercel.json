@@ -1,8 +1,0 @@
-{
-  "functions": {
-    "app/api/streak/route.ts": {
-      "maxDuration": 10,
-      "memory": 128
-    }
-  }
-}
