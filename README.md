@@ -151,7 +151,7 @@
 
 <br/>
 
-![GitHub Streak](https://karthikeya1220.vercel.app/api/streak?user=karthikeya1220)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=karthikeya1220&theme=tokyonight&hide_border=true)
 
 ### 📈 Contribution Graph
 
