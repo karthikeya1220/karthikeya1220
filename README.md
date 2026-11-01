@@ -177,4 +177,3 @@
 
 </div>
 
-<!-- 3D graph regenerated on 2026-11-01 -->
